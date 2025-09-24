@@ -1,0 +1,11 @@
+[INFO. __main__, (line #217) - 2025-09-01 08:44:19,216] Launching driver
+[INFO. __main__, (line #58) - 2025-09-01 08:44:19,216] Using certifi CA bundle: /Users/anymacstore/projects/work_scraper_pt/UpworkScraper/.venv/lib/python3.9/site-packages/certifi/cacert.pem
+[INFO. __main__, (line #65) - 2025-09-01 08:44:19,216] Trying with Chrome version 139
+[INFO. __main__, (line #67) - 2025-09-01 08:44:19,216] Attempt #1/5
+[INFO. __main__, (line #71) - 2025-09-01 08:44:25,252] Launched undetected_chromedriver successfully
+[INFO. __main__, (line #219) - 2025-09-01 08:44:25,256] driver: <undetected_chromedriver.Chrome (session="0883279d08f0a44da6f9b17c5e6e4bae")>
+[INFO. __main__, (line #224) - 2025-09-01 08:44:25,256] Navigating to `https://www.upwork.com/ab/account-security/login`
+[INFO. __main__, (line #226) - 2025-09-01 08:44:27,556] Pausing for windows to fully load
+[INFO. __main__, (line #229) - 2025-09-01 08:44:52,563] Switching to main window
+[ERROR. __main__, (line #527) - 2025-09-01 08:44:52,572] list index out of range
+[INFO. __main__, (line #531) - 2025-09-01 08:44:52,573] Closing connection to database

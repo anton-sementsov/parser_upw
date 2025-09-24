@@ -1,0 +1,15 @@
+[INFO. __main__, (line #217) - 2025-09-01 08:44:41,883] Launching driver
+[INFO. __main__, (line #58) - 2025-09-01 08:44:41,883] Using certifi CA bundle: /Users/anymacstore/projects/work_scraper_pt/UpworkScraper/.venv/lib/python3.9/site-packages/certifi/cacert.pem
+[INFO. __main__, (line #65) - 2025-09-01 08:44:41,884] Trying with Chrome version 139
+[INFO. __main__, (line #67) - 2025-09-01 08:44:41,884] Attempt #1/5
+[INFO. __main__, (line #71) - 2025-09-01 08:44:44,504] Launched undetected_chromedriver successfully
+[INFO. __main__, (line #219) - 2025-09-01 08:44:44,505] driver: <undetected_chromedriver.Chrome (session="e8dd79e3a54c81b000ca0e1f3917e5b1")>
+[INFO. __main__, (line #224) - 2025-09-01 08:44:44,505] Navigating to `https://www.upwork.com/ab/account-security/login`
+[INFO. __main__, (line #226) - 2025-09-01 08:44:47,846] Pausing for windows to fully load
+[INFO. __main__, (line #531) - 2025-09-01 08:44:49,167] Closing connection to database
+Traceback (most recent call last):
+  File "/Users/anymacstore/projects/work_scraper_pt/UpworkScraper/upwork_best_matches_scraper.py", line 537, in <module>
+    main()
+  File "/Users/anymacstore/projects/work_scraper_pt/UpworkScraper/upwork_best_matches_scraper.py", line 227, in main
+    time.sleep(25)
+KeyboardInterrupt
